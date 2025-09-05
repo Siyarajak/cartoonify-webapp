@@ -2,3 +2,11 @@ streamlit
 numpy
 Pillow
 opencv-python-headless==4.7.0.72
+Flask>=2.3
+gunicorn>=20.1
+setuptools>=68.0.0
+wheel>=0.40.0
+joblib
+pandas
+numpy
+scikit-learn
